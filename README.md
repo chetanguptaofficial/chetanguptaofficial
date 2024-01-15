@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a f
 
 ## 🚀 Projects
 
-- [Project 1](project1-link): Coming Soon..
+- [Calculator](https://github.com/chetanguptaofficial/CodSoft): This is not project i will upload my project soon..
 
 Feel free to explore my repositories for more!
 
