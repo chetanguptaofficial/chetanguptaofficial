@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a f
 
 - 💼 Currently working as a Full Stack Web Developer
 - 🌐 Experienced in MERN (MongoDB, Express.js, React.js, Node.js) stack
-- 🐍 Learning Python Django Framework for backend development
+- 🐍 Skilled in Python Django Framework & Flask for backend development
 
 ## 🛠️ Skills
 
 - Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
-- Backend: Node.js, Express.js, MongoDB, Python (Django)
+- Backend: Node.js, Express.js, MongoDB, Python (Django & Flask)
 - Database: MongoDB, MySQL
 - Other: Git, RESTful APIs
 
