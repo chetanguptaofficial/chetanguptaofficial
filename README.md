@@ -27,7 +27,7 @@ I'm actively seeking collaboration opportunities! If you're working on exciting 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: www.linkedin.com/in/chetanguptaofficial00
+- LinkedIn: www.linkedin.com/in/chetan-guptaofficial
   
 
 ## 😄 Pronouns
